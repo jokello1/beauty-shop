@@ -1,0 +1,42 @@
+[
+  {
+    "id": "se1",
+    "title": "Facial Treatments",
+    "description": "Experience our rejuvenating facial treatments that cleanse, exfoliate, and nourish your skin.",
+    "icon": "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z",
+    "image": "https://images.unsplash.com/photo-1603454391273-d4b209c76947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "price": "$99"
+  },
+  {
+    "id": "se2",
+    "title": "Manicure & Pedicure",
+    "description": "Pamper your hands and feet with our luxurious manicure and pedicure services.",
+    "icon": "M20 6L9 17l-5-5 M6 6a3 3 0 100 6 3 3 0 000-6z M6 18a3 3 0 100 6 3 3 0 000-6z",
+    "image": "https://images.unsplash.com/photo-1578255690034-24d0946d7203?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "price": "$99"
+  },
+  {
+    "id": "se3",
+    "title": "Hair Styling",
+    "description": "Get the perfect hairstyle with our professional hair styling services.",
+    "icon": "M20 6L9 17l-5-5",
+    "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "price": "$99"
+  },
+  {
+    "id": "se4",
+    "title": "Massage Therapy",
+    "description": "Relax and unwind with our soothing massage therapy sessions.",
+    "icon": "M20 6L9 17l-5-5",
+    "image": "https://images.unsplash.com/photo-1519824145371-296894a0daa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "price": "$99"
+  },
+  {
+    "id": "se5",
+    "title": "Makeup Services",
+    "description": "Enhance your natural beauty with our professional makeup services.",
+    "icon": "M20 6L9 17l-5-5",
+    "image": "https://images.unsplash.com/photo-1606216965807-2f1286b105cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "price": "$99"
+  }
+]
